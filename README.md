@@ -1,4 +1,4 @@
-# CS Capstone Marketplace
+# CS Capstone Marketplacee
 
 ## Synopsis
 
